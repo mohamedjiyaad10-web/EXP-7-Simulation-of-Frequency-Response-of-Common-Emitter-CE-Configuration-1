@@ -13,6 +13,8 @@ Procedure
 7.	Click on the Run option → open the Simulation Window → place the probe to obtain the output graph. 
 Circuit Diagram
 
+<img width="1460" height="782" alt="Screenshot 2026-09-08 132410" src="https://github.com/user-attachments/assets/d6fc0cb6-1638-4f26-a622-bdfe6f4eef6c" />
+
 
 
 
